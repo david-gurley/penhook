@@ -1,0 +1,13 @@
+node_modules/
+vendor/
+statik/
+build/
+stand/
+*.swp
+*.lock
+*.tgz
+*.db
+package-lock.json
+.DS_Store
+._.DS_Store
+env.sh
